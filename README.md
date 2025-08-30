@@ -1,6 +1,7 @@
 # Desafio DIO: Escrevendo as Classes de um Jogo
 
-Este repositório contém a solução para o desafio de projeto "Escrevendo as Classes de um Jogo", proposto pela [Digital Innovation One (DIO)](https://www.dio.me/). O objetivo era aplicar conceitos de Programação Orientada a Objetos (POO) para criar uma estrutura de classes para um herói de aventura.
+Este repositório contém a solução para o desafio de projeto "Escrevendo as Classes de um Jogo", proposto pela [Digital Innovation One (DIO)](https://www.dio.me/).
+O objetivo era aplicar conceitos de Programação Orientada a Objetos (POO) para criar uma estrutura de classes para um herói de aventura.
 
 ## 🎯 O Desafio
 
