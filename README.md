@@ -30,7 +30,7 @@ A tarefa consistia em criar uma classe genérica para representar um herói com 
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/welitonrangel/desafio_heroi.git)
+    git clone https://github.com/welitonrangel/desafio_heroi.git
     ```
 
 2.  **Navegue até o diretório do projeto:**
