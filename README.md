@@ -52,7 +52,6 @@ o guerreiro atacou usando espada
 o monge atacou usando artes marciais
 o ninja atacou usando shuriken
 ```
+## 👨‍💻 Autor
 
-👨‍💻 Autor
-
-Feito por Weliton Rangel.
+Feito por **Weliton Rangel**.
